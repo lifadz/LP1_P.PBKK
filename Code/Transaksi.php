@@ -105,7 +105,7 @@
     <!-- Tag table untuk membuat table -->
     <table>
         <tr>
-            <th>Gambar & Nama Produk</th> <!-- Kolom untuk menampilkan gambar dan nama produk -->
+            <th>Nama Produk</th> <!-- Kolom untuk menampilkan gambar dan nama produk -->
             <th>Tanggal Bayar</th> <!-- Kolom untuk menampilkan tanggal bayar -->
             <th>Jumlah Harga</th> <!-- Kolom untuk menampilkan jumlah harga -->
             <th>Metode Pembayaran</th> <!-- Kolom untuk menampilkan metode pembayaran -->
