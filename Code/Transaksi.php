@@ -46,7 +46,10 @@
 </head>
 
 <body>
+    <!-- Tag a href tombol kembali yang tujuannya kembali ke halaman utama atau index.php -->
     <a href="index.php" class="tombol-kembali">&#8592;</a>
+
+    <!-- Tag h1 yang berfungsi sebagai header dengan style atribut  -->
     <h1 style="text-align:center; font-family:Segoe UI">Daftar Transaksi</h1>
 
     <?php // Tag awalan scripting php
